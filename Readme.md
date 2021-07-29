@@ -19,18 +19,17 @@
 
 |Case 1: When Both Switches are OFF|Case 2: When Switch 1 is OFF and Switch 2 is ON|
 |:--:|:--:|
-|![image](https://user-images.githubusercontent.com/61261829/115930043-6de23600-a4a6-11eb-9b26-7124facd5505.png)|![image](https://user-images.githubusercontent.com/61261829/115930127-92d6a900-a4a6-11eb-8543-bde89173b492.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/Switch_OFF_OFF.PNG)|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/Switch_OFF_ON.PNG)|
 
-|Case 3: When Both Switch 1 is ON and Switch 2 is ON|Case 4: When Both Switches are ON|
+|Case 3: When Both Switch 1 is ON and Switch 2 is OFF|Case 4: When Both Switches are ON|
 |:--:|:--:|
-|![image](https://user-images.githubusercontent.com/61261829/115930263-c6b1ce80-a4a6-11eb-9849-93b9a62fab5c.png)|![image](https://user-images.githubusercontent.com/61261829/115930289-d16c6380-a4a6-11eb-82f5-6a4c09a9c281.png)| ![image](https://user-images.githubusercontent.com/61261829/116689761-16782480-a9d6-11eb-886a-bb9877016e00.png)
-
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/Switch_ON_OFF.PNG)|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/Switch_ON_ON.PNG)| 
 
 # Activity 2 
 
 ## In Action
 
-![image](https://user-images.githubusercontent.com/61261829/116450392-e0715e00-a878-11eb-81a1-1e15dda5220c.png)
+![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/ADC.PNG)
 
 # Activity 3
 
@@ -38,20 +37,20 @@
 
 |Case 1: Duty Ratio = 0.2 |
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116689398-b1243380-a9d5-11eb-9564-c2cd473cc5e9.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/20%25DutyRatio.PNG)|
 
 |Case 2: Duty Ratio = 0.4|
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116689499-d5801000-a9d5-11eb-97b9-6c23e14f08a3.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/40%25DutyRatio.PNG)|
 
 
 |Case 3: Duty Ratio = 0.7 |
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116689834-30196c00-a9d6-11eb-907d-9586ce5f3912.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/70%25DutyRatio.PNG)|
 
 |Case 4: Duty Ratio = 0.95|
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116689962-5dfeb080-a9d6-11eb-80c5-823ee46b98d4.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/95%25DutyRatio.PNG)|
 
 # Activity 4
 
@@ -59,28 +58,24 @@
 
 |Case 1: Temperature = 20 |
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116717561-a4640780-a9f6-11eb-9114-3ec2c38a5a29.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/temp%3D20.PNG)|
 
 |Case 2: Temperature = 25|
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116717605-b2b22380-a9f6-11eb-8ffb-f0cbf3f3dc31.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/temp%3D25.PNG)|
 
 
 |Case 3: Temperature = 29 |
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116717632-bd6cb880-a9f6-11eb-9003-9dfeba660830.png)
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/temp%3D29.PNG)
 
 |Case 4: Temperature = 33|
 |:--:|
-|![image](https://user-images.githubusercontent.com/61261829/116717672-c6f62080-a9f6-11eb-8aff-de9657a348da.png)|
+|![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/temp%3D33.PNG)|
 
 
 # Final Working
-![image](https://user-images.githubusercontent.com/61261829/116717716-d1b0b580-a9f6-11eb-9eab-cd533d796e10.png)
+![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/Final_Working.PNG)
 
 
-#### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Build](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/build.yml/badge.svg)](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/build.yml)|[![Cpp_Check](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/cpp_check.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e5facfbcad3a46f283b859d701dbe235)](https://www.codacy.com/gh/Manikanta489/EmbeddedC_stepin256240/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Manikanta489/EmbeddedC_stepin256240&amp;utm_campaign=Badge_Grade)
