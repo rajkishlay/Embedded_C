@@ -43,7 +43,6 @@
 |:--:|
 |![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/40%25DutyRatio.PNG)|
 
-
 |Case 3: Duty Ratio = 0.7 |
 |:--:|
 |![image](https://github.com/rajkishlay/Embedded_C/blob/main/simulation/70%25DutyRatio.PNG)|
